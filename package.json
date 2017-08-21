@@ -1,0 +1,11 @@
+{
+  "name": "node-chat",
+  "version": "1.0.0",
+  "description": "A npm module that helps you setup chat rooms easily",
+  "main": "index.js",
+  "author": "Ayush Bahuguna",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^2.0.3"
+  }
+}
